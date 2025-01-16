@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+.npmrc
+.env
+dist
+.nuxt
+.nuxt-*
+.output
+.output-*
+.gen
+package-lock.json
